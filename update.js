@@ -4,9 +4,9 @@
             "updates": [
                 // 新しいバージョンをリリースする際は、ここに新しいバージョンのエントリを先頭に追加
                 {
-                    "version": "2.0.1", 
-                    "update_link": "https://guardianowo.github.io/DIM_for_Firefox/orenodim-2.0.1.xpi",  
-                    "update_hash": "sha256:68277700B5C38960C64CDD13E6344E84937F46BA342B24AA95E32F07A1C2A08B"
+                    "version": "2.0.2", 
+                    "update_link": "https://guardianowo.github.io/DIM_for_Firefox/orenodim-2.0.2.xpi",  
+                    "update_hash": "sha256:BF4154E0BCC87B4C1AD2218739E939C830B17E189901C04864A777E13F40927F"
                 },
                 {
                     "version": "2.0", 
