@@ -1,0 +1,22 @@
+{
+    "addons": {
+        "{b0713893-2911-5e35-31e9-870d10186753}": {
+            "updates": [
+                {
+                    "version": "2.0.4",
+                    "update_link": "https://guardianowo.github.io/DIM_for_Firefox/orenodim-2.0.4.xpi",
+                    "update_hash": "sha256:31D3FE374CF8859DAEB3FB31F0A3066269560A6BE1F55BA21174FD07767FB84D"
+                },
+                {
+                    "version": "0.3",
+                    "update_link": "https://guardianowo.github.io/DIM_for_Firefox/orenodim-2.0.4.xpi",
+                    "applications": {
+                        "gecko": {
+                            "strict_min_version": "44"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
